@@ -12,6 +12,7 @@ git show HEAD
 
 # scenario 1
 working directory --- same as last commit
+git checkout HEAD filename
 
 # scenario 2
 staging same as last commit
