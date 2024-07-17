@@ -1,0 +1,26 @@
+working   d  ---- staging ----- local repository ---- remote
+
+
+git init
+git status -- red untracked / green tracked
+git add script.js
+git commit -m "added"
+git diff script.js - working and staging
+git diff - working staging
+git log
+git show HEAD
+
+# scenario 1
+working directory --- same as last commit
+
+# scenario 2
+staging same as last commit
+
+#scenario 3
+# removing the commit to roll back to spect commit
+
+
+
+
+
+
