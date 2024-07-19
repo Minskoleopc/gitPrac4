@@ -1,6 +1,5 @@
 working   d  ---- staging ----- local repository ---- remote
 
-
 git init
 git status -- red untracked / green tracked
 git add script.js
@@ -16,6 +15,7 @@ git checkout HEAD filename
 
 # scenario 2
 staging same as last commit
+git reset HEAD filename
 
 #scenario 3
 # removing the commit to roll back to spect commit
