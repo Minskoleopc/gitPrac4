@@ -22,6 +22,15 @@ git reset HEAD filename
 git reset 4586e3d
 
 
+total branch 
+
+1) git branch
+2) git branch branchName
+
+
+
+
+
 
 
 
